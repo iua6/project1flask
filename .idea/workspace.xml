@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="319b768a-bcec-4d68-b158-ff76001a9cfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker_flask" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker_flask/.github/workflows/dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask/.github/workflows/dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker_flask/.github/workflows/prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask/.github/workflows/prod.yml" afterDir="false" />
@@ -13,9 +12,6 @@
       <change beforePath="$PROJECT_DIR$/docker_flask/app/simple_pages/templates/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask/app/simple_pages/templates/page3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker_flask/app/simple_pages/templates/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask/app/simple_pages/templates/page4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker_flask/app/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docker_flask/app/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
