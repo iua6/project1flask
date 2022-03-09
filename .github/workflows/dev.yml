@@ -57,7 +57,7 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "pr253-dev" #Must be unique in Heroku
-          heroku_email: "pr253@njit.edu"
+          heroku_email: "iua6@njit.edu"
           usedocker: true
 name: Development Workflow
 
